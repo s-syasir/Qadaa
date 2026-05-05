@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Blue rounded square background -->
+  <rect width="512" height="512" rx="96" fill="#1565C0"/>
+
+  <!-- Crescent moon: white circle with blue cutout -->
+  <circle cx="208" cy="258" r="142" fill="white"/>
+  <circle cx="275" cy="212" r="127" fill="#1565C0"/>
+
+  <!-- Plus sign -->
+  <rect x="362" y="242" width="82" height="32" rx="16" fill="white"/>
+  <rect x="378" y="207" width="32" height="102" rx="16" fill="white"/>
+</svg>
