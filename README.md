@@ -73,6 +73,13 @@ flutter run          # debug, hot-reload
 flutter build apk --release && adb install -r build/app/outputs/flutter-apk/app-release.apk
 ```
 
+Or use the included scripts (require a connected device via ADB):
+
+```bash
+./run-debug.sh       # flutter run (debug, live reload)
+./run-install.sh     # build release APK + adb install -r
+```
+
 Requires Android (API 21+). iOS is deferred to v2.
 
 ---
