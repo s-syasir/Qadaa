@@ -6,6 +6,14 @@ No backend. No accounts. Your data stays on your device.
 
 ---
 
+## Screenshots
+
+| Home | Settings — Debt & Prayer Times | Settings — Backup |
+|---|---|---|
+| ![Home screen](screenshots/home.png) | ![Settings debt](screenshots/settings_debt.png) | ![Settings backup](screenshots/settings_backup.png) |
+
+---
+
 ## Features
 
 - **Prayer debt tracking** — log each of the 5 daily prayers as missed or made up
